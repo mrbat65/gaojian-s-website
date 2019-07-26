@@ -11,6 +11,10 @@ section {
   padding: 150px 0;
 }
 
+.purdue-black {
+  background-color: black;
+}
+
 .purdue-gold {
   background-color: #C28E0E;
 }
@@ -20,6 +24,11 @@ section {
   font-weight: bold;
 }
 
-#round-img {
-  border-radius: 25%;
+.roboto {
+  font-family: 'Roboto', sans-serif;
 }
+
+#round-img {
+  border-radius: 5%;
+}
+
