@@ -10,3 +10,16 @@ header {
 section {
   padding: 150px 0;
 }
+
+.purdue-gold {
+  background-color: #857251;
+}
+
+.purdue-gold-text {
+  color: #857251;
+  font-weight: bold;
+}
+
+#round-img {
+  border-radius: 25%;
+}
