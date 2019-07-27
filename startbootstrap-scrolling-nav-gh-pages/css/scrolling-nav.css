@@ -28,6 +28,10 @@ section {
   font-family: 'Roboto', sans-serif;
 }
 
+.top-pad{
+  padding-top:1%;
+}
+
 #round-img {
   border-radius: 5%;
 }
