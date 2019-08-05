@@ -28,6 +28,11 @@ section {
   font-family: 'Roboto', sans-serif;
 }
 
+.link-black{
+  color:black;
+  text-decoration: underline
+}
+
 .top-pad{
   padding-top:10px;
 }
@@ -35,4 +40,6 @@ section {
 #round-img {
   border-radius: 5%;
 }
+
+
 
